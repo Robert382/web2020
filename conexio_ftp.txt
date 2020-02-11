@@ -1,0 +1,15 @@
+
+Nombre de host:
+
+files.000webhost.com
+
+Puerto:
+
+21
+
+Nombre de usuario
+
+camacho-tecnology
+
+Contraseña:contreraS
+
